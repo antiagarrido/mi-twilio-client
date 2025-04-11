@@ -44,7 +44,7 @@ tsconfig.json: Configuración de TypeScript.
 
 🧑‍💻 Autora
 Antía Garrido
-🔗 GitHub
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
 📱 Mi Twilio Client
@@ -95,4 +95,4 @@ For more info on Angular project structure, check out this guide.
 
 🧑‍💻 Author
 Antía Garrido
-🔗 GitHub
+
