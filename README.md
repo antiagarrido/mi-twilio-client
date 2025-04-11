@@ -1,28 +1,88 @@
-# KtwilioClient
+📱 Mi Twilio Client
+Cliente web en Angular para enviar SMS utilizando la API de Twilio.
+Este proyecto proporciona una interfaz sencilla para enviar mensajes SMS a través de un backend que interactúa con Twilio.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
+🚀 Características
+Formulario para ingresar número de teléfono y mensaje.
 
-## Development server
+Interfaz desarrollada con Angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Diseño minimalista y funcional.
 
-## Code scaffolding
+🧰 Tecnologías utilizadas
+Angular CLI 8.3.29
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+HTML5, CSS3 y TypeScript
 
-## Build
+Twilio API (requiere backend propio)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+⚙️ Requisitos
+Este proyecto no incluye un backend. Para enviar SMS, necesitas implementar un servidor que reciba las solicitudes desde el frontend y utilice tus credenciales de Twilio para enviar los mensajes.
 
-## Running unit tests
+🗂️ Estructura del proyecto
+El proyecto sigue la estructura estándar de Angular:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+src/: Contiene el código fuente de la aplicación.
 
-## Running end-to-end tests
+app/: Componentes principales de la aplicación.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+assets/: Recursos estáticos como imágenes.
 
-## Further help
+environments/: Configuraciones para diferentes entornos.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# mi-twilio-client
+angular.json: Configuración del proyecto Angular.
+
+package.json: Dependencias y scripts del proyecto.
+
+tsconfig.json: Configuración de TypeScript.
+
+
+🧑‍💻 Autora
+Antía Garrido
+🔗 GitHub
+
+-----------------------------------------------------------------------------------------------------------------------------------
+📱 Mi Twilio Client
+Angular-based web client for sending SMS messages using Twilio's API.
+This project provides a simple interface for sending SMS messages via a backend that connects to Twilio.
+
+🚀 Features
+Form to input a phone number and message.
+
+UI built with Angular.
+
+Clean and minimal design.
+
+🧰 Technologies Used
+Angular CLI 8.3.29
+
+HTML5, CSS3, TypeScript
+
+Twilio API (backend required)
+
+⚙️ Requirements
+This project does not include a backend. You will need to implement a server that handles requests from the frontend and uses your Twilio credentials to send messages.
+
+🗂️ Project Structure
+This project follows the standard Angular project layout:
+
+src/: Application source code.
+
+app/: Main components.
+
+assets/: Static files and assets.
+
+environments/: Environment-specific configurations.
+
+angular.json: Angular project configuration.
+
+package.json: Project dependencies and scripts.
+
+tsconfig.json: TypeScript configuration.
+
+For more info on Angular project structure, check out this guide.
+
+
+🧑‍💻 Author
+Antía Garrido
+🔗 GitHub
